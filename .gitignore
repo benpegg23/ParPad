@@ -1,0 +1,59 @@
+# ===== STM32CubeIDE build files =====
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.lst
+*.log
+*.srec
+*.dep
+
+# Build folders
+Debug/
+Release/
+.build/
+
+# IDE metadata
+*.launch
+.metadata/
+*.settings/
+.project
+.cproject
+
+# STM32CubeMX generated temp files
+*.ioc~  # backup of .ioc file
+
+# Cube-generated Makefile (optional to ignore if not modified manually)
+Makefile
+
+# ===== KiCad files to ignore =====
+# Temporary files and backups
+*.bak
+*.tmp
+*.sch-bak
+*.kicad_prl
+
+# Auto-generated or cache files
+__pycache__/
+fp-info-cache/
+sym-lib-table-bak
+*.net
+*.xml
+*.zip
+*.dcm
+*.csv
+
+# User settings (optional to ignore)
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+
+# ===== OS and Editor Files =====
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+*.~lock.*
