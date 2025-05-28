@@ -7983,7 +7983,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_EVQP7C"
+		(property "Footprint" "ScottoKeebs_Components:Button_TL3342"
 			(at 24.13 172.72 0)
 			(effects
 				(font
