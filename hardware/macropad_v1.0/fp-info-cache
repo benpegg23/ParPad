@@ -1,4 +1,4 @@
-25011713517386587
+25023951364794302
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101450,3 +101450,52 @@ Varistor VF
 0
 2
 2
+macropad_footprints
+MX-Plated-Cutout-1u
+
+
+0
+4
+1
+macropad_footprints
+MX_PCB_1.00u
+MX keyswitch PCB Mount Keycap 1.00u
+MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u
+0
+2
+2
+macropad_footprints
+PTS526 SKG15 SMTR2 LFS_CNK
+
+PTS526 SKG15 SMTR2 LFS 
+0
+6
+6
+macropad_footprints
+RotaryEncoder_EC11
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+macropad_footprints
+RotaryEncoder_EC11-no-legs
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+5
+5
+macropad_footprints
+SW_PTS526_SM08_SMTR2_LFS
+
+
+0
+4
+4
+switch_footprints
+PTS526 SKG15 SMTR2 LFS_CNK
+
+PTS526 SKG15 SMTR2 LFS 
+0
+6
+6
