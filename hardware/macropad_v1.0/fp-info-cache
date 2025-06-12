@@ -1,4 +1,4 @@
-25023951364794302
+25025700472661399
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -101492,6 +101492,13 @@ SW_PTS526_SM08_SMTR2_LFS
 0
 4
 4
+macropad_footprints
+bp_logo_v1.0
+
+
+0
+0
+0
 switch_footprints
 PTS526 SKG15 SMTR2 LFS_CNK
 
