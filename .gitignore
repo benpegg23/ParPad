@@ -36,8 +36,7 @@ Makefile
 *.kicad_prl
 
 # KiCad lock files
-~*.kicad_
-*.lck
+~*.kicad_*.lck
 
 # Auto-generated or cache files
 __pycache__/
