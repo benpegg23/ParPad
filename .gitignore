@@ -35,9 +35,14 @@ Makefile
 *.sch-bak
 *.kicad_prl
 
+# KiCad lock files
+~*.kicad_
+*.lck
+
 # Auto-generated or cache files
 __pycache__/
 fp-info-cache/
+fp-info-cache
 sym-lib-table-bak
 *.net
 *.xml
