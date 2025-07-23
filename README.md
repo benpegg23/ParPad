@@ -17,7 +17,8 @@
 
 ## 📸 Images
 
-_(photos coming soon)_
+![ParPad_HeadOn](/images/ParPad_HeadOn.png)
+![ParPad_SideView](/images/ParPad_SideView.png)
 
 
 
