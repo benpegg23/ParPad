@@ -5,3 +5,8 @@ Issues when assembling:
 --probably a short somewhere that's connecting 3v3 and gnd
 --if can't find short, try replacing voltage regulator unit
 - Definitely a short somewhere, when doing a continuity test between ground and 3v3 output of voltage regulator, getting a beep. Also lifehack, you can use the outside of the usb connector as a ground reference. 
+- Tried to find short using the resistance method thing where you measure the resistance between gnd and 3v3 path. Apparently the resistance is supposed to decrease when you're getting closer to the short, but when measuring it, all of the resistance measurements were the same across the whole 3v3 path. Probably because my multimeter isn't accurate enough to find the small changes, would need a bench multimeter. 
+- Best way to find a short is to use a bench power supply, which I obviously don't have
+-- Connect power supply, set to ~1-2V, set current to around 5-10A, attach to 3v3 rail, then see which component gets hot
+-- Can either use finger, isopropyl alcohol (see where evaporates first), or thermal camera
+- Other way is to just desolder components until you find the short, which is prob what I'll have to do cuz I otherwise I have to wait a month until I get back to school. 
