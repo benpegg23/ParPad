@@ -1,0 +1,7 @@
+Issues when assembling:
+- 3v3 led indicator turns on for a split second when connecting, and then shuts off. Probing reveals that the board is receiving 5v correctly, but something is happening with the voltage regulator, because Vout is around 0.5v instead of the expected 3v3. 
+--Potential Reasons: 
+--datasheet config shows diodes included on 3v3 and 5v sides, but iirc they're not essential?
+--probably a short somewhere that's connecting 3v3 and gnd
+--if can't find short, try replacing voltage regulator unit
+- Definitely a short somewhere, when doing a continuity test between ground and 3v3 output of voltage regulator, getting a beep. Also lifehack, you can use the outside of the usb connector as a ground reference. 
