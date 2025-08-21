@@ -24,6 +24,7 @@
 ![parpad_down](/images/parpad_down.jpg)
 ![ParPad_HeadOn](/images/ParPad_HeadOn.png)
 ![ParPad_SideView](/images/ParPad_SideView.png)
+![parpad_layout](/images/parpad_layout.png)
 
 
 
