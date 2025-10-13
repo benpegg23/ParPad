@@ -1,10 +1,10 @@
-# ⛳ ParPad
+# ParPad
 
-**ParPad** is an STM32-based macropad featuring a 3×3 layout and two rotary encoders. Custom firmware coming soon! 
+**ParPad** is an STM32-based macropad featuring a 3×3 layout and two rotary encoders.  
 
 
 
-## 🔧 Features
+## Features
 
 - 3×3 mechanical key matrix
 - Dual EC11 rotary encoders with push functionality
@@ -15,7 +15,7 @@
 
 
 
-## 📸 Images
+## Images
 
 ![parpadbannersidestuff](/images/parpadbannersidestuff.jpg)
 ![parpadbanner1](/images/parpadbanner1.jpg)
